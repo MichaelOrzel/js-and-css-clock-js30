@@ -1,1 +1,1 @@
-# js30-js-and-css-clock
+# js-and-css-clock-js30
